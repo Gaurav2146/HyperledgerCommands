@@ -1,0 +1,1 @@
+./addOrg3.sh up -c mychannel -s couchdb
